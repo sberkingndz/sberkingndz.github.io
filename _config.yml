@@ -43,6 +43,7 @@ author: Berkin
 copyright: "About Me  (cleft)  2024-{2024} {Berkin}"
 
 description: >- # this means to ignore newlines until "baseurl:"
+  
   On this site you will be able to access a lot of information about me, my work and my goals. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
